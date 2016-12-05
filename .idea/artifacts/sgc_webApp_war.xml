@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sgc-webApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sgc-webApp.war">
+      <element id="artifact" artifact-name="sgc-webApp:war exploded" />
+    </root>
+  </artifact>
+</component>
